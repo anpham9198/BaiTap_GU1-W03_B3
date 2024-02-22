@@ -1,0 +1,7 @@
+D:\C#\Projects\HienThiCacLoaiHinh\BaiTap_GU1-W03_B3\bin\Debug\BaiTap_GU1-W03_B3.exe.config
+D:\C#\Projects\HienThiCacLoaiHinh\BaiTap_GU1-W03_B3\bin\Debug\BaiTap_GU1-W03_B3.exe
+D:\C#\Projects\HienThiCacLoaiHinh\BaiTap_GU1-W03_B3\bin\Debug\BaiTap_GU1-W03_B3.pdb
+D:\C#\Projects\HienThiCacLoaiHinh\BaiTap_GU1-W03_B3\obj\Debug\BaiTap_GU1-W03_B3.csproj.AssemblyReference.cache
+D:\C#\Projects\HienThiCacLoaiHinh\BaiTap_GU1-W03_B3\obj\Debug\BaiTap_GU1-W03_B3.csproj.CoreCompileInputs.cache
+D:\C#\Projects\HienThiCacLoaiHinh\BaiTap_GU1-W03_B3\obj\Debug\BaiTap_GU1-W03_B3.exe
+D:\C#\Projects\HienThiCacLoaiHinh\BaiTap_GU1-W03_B3\obj\Debug\BaiTap_GU1-W03_B3.pdb
